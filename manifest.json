@@ -1,0 +1,53 @@
+{
+	"default_locale": "en",
+	"description": "__MSG_description__",
+	"icons": {
+		"128": "icon.png"
+	},
+	"key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmB+zVICRRuXXeR3iY42frnnXfTUuiuycR2Mogzr5Cfb4xGPe2kLlJW35novUrmmDZTowfyR7Xkdu1aJH2d5tLa/MFRy3ACjEza+YTq/93nLXOZ1qM1sSvDMtnFrFmiLzRm24oxiLJL0CKWUWWb4Wr0tGdlZ9WI26q5r0CtYYUcm207btQKv20CFTPyxITgoiLiNzyUdMK/wwFBgFizxsNbfl9b8mTEUw3jU7n1dIQIzgW7cmKWCVY0cSz0DIEekWErX+NTAh7Hs74b3ZD+LCOdKnaz5C6qwogkOQ2Pr+IrvHIROAy5vecHUfSd8occ87GGzOzJ4fw4m7MI36yuQbwwIDAQAB",
+	"manifest_version": 3,
+	"name": "__MSG_name__",
+	"theme": {
+		"clear_new_tab": {
+			"size": "dont_resize",
+			"video_speed": 1
+		},
+		"colors": {
+			"background_tab": [25, 25, 25],
+			"background_tab_inactive": [25, 25, 25],
+			"bookmark_text": [204, 204, 204],
+			"frame": [11, 11, 11],
+			"frame_inactive": [0, 0, 0],
+			"ntp_background": [15, 15, 15],
+			"ntp_link": [251, 255, 117],
+			"ntp_text": [255, 255, 255],
+			"omnibox_background": [41, 41, 41],
+			"omnibox_text": [204, 204, 204],
+			"tab_background_text": [204, 204, 204],
+			"tab_background_text_inactive": [173, 173, 173],
+			"tab_text": [255, 255, 255],
+			"toolbar": [15, 15, 15],
+			"toolbar_button_icon": [204, 204, 204],
+			"toolbar_text": [204, 204, 204]
+		},
+		"images": {
+			"theme_ntp_background": "theme_ntp_background.png",
+			"theme_toolbar": "theme_toolbar.png"
+		},
+		"properties": {
+			"ntp_background_alignment": "left top",
+			"ntp_background_repeat": "repeat-x",
+			"ntp_logo_alternate": 0
+		},
+		"tints": {
+			"background_tab": [-1, -1, -1],
+			"buttons": [-1, -1, -1],
+			"frame": [-1, -1, -1],
+			"frame_inactive": [-1, -1, -1],
+			"frame_incognito": [-1, -1, -1],
+			"frame_incognito_inactive": [-1, -1, -1]
+		}
+	},
+	"update_url": "https://clients2.google.com/service/update2/crx",
+	"version": "4.1.0"
+}
