@@ -31,7 +31,6 @@
 			"toolbar_text": [204, 204, 204]
 		},
 		"images": {
-			"theme_ntp_background": "theme_ntp_background.png",
 			"theme_toolbar": "theme_toolbar.png"
 		},
 		"properties": {
