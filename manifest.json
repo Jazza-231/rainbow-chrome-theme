@@ -16,7 +16,7 @@
 			"background_tab": [25, 25, 25],
 			"background_tab_inactive": [25, 25, 25],
 			"bookmark_text": [204, 204, 204],
-			"frame": [11, 11, 11],
+			"frame": [15, 15, 15],
 			"frame_inactive": [0, 0, 0],
 			"ntp_background": [15, 15, 15],
 			"ntp_link": [251, 255, 117],
@@ -31,20 +31,8 @@
 			"toolbar_text": [204, 204, 204]
 		},
 		"images": {
-			"theme_toolbar": "theme_toolbar.png"
-		},
-		"properties": {
-			"ntp_background_alignment": "left top",
-			"ntp_background_repeat": "repeat-x",
-			"ntp_logo_alternate": 0
-		},
-		"tints": {
-			"background_tab": [-1, -1, -1],
-			"buttons": [-1, -1, -1],
-			"frame": [-1, -1, -1],
-			"frame_inactive": [-1, -1, -1],
-			"frame_incognito": [-1, -1, -1],
-			"frame_incognito_inactive": [-1, -1, -1]
+			"theme_toolbar": "theme_toolbar.png",
+			"theme_tab_background": "theme_tab_background.png"
 		}
 	},
 	"update_url": "https://clients2.google.com/service/update2/crx",
